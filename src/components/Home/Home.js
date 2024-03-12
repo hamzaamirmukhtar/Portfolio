@@ -4,6 +4,8 @@ import homeLogo from "../../Assets/home-main.svg";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
+import Techstack from "../About/Techstack";
+import Toolstack from "../About/Toolstack";
 
 function Home() {
   return (
@@ -22,7 +24,7 @@ function Home() {
 
               <h1 className="heading-name">
                 I'M
-                <strong className="main-name"> SOUMYAJIT BEHERA</strong>
+                <strong className="main-name"> HAMZA AMIR</strong>
               </h1>
 
               <div style={{ padding: 50, textAlign: "left" }}>
@@ -41,6 +43,18 @@ function Home() {
           </Row>
         </Container>
       </Container>
+      <section style={{color:'white'}}>
+      <h1 className="project-heading">
+          Professional <strong className="purple">Skillset </strong>
+        </h1>
+
+        <Techstack />
+
+        <h1 className="project-heading">
+          <strong className="purple">Tools</strong> I use
+        </h1>
+        <Toolstack />
+      </section>
       <Home2 />
     </section>
   );
