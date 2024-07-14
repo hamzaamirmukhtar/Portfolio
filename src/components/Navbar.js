@@ -38,7 +38,7 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand href="/" className="d-flex">
-          <p style={{color:"var(--imp-text-color)", fontSize:'32px',border:"2px solid", padding:"5px 10px"}}>HAMZA AMIR</p>
+          <p style={{color:"var(--imp-text-color)", fontSize:'32px',border:"2px dashed", padding:"5px 10px"}}>{`< HA />`}</p>
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
