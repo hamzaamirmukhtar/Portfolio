@@ -5,7 +5,6 @@ import Particle from "../Particle";
 import SF from "../../Assets/Projects/SF-logo.svg";
 
 import emotion from "../../Assets/Projects/emotion.png";
-import editor from "../../Assets/Projects/codeEditor.png";
 import chatify from "../../Assets/Projects/chatify.png";
 import TeeTag from "../../Assets/Projects/TeeTag-Logo.png";
 import senpi from "../../Assets/Projects/senpi.png";
