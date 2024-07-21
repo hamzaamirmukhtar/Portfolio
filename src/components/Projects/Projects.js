@@ -40,7 +40,7 @@ function Projects() {
               description="TeeTag is an ecommerce platform for unique t-shirts to raise funds for underprivileged students. This project is developed in Next.js as the frontend and Node.js as the backend."
               description2="I was responsible for the development of the frontend and backend of the project with all major payment systems integrated. Techstack used: Next.js, Node.js, ArangoDB, Tailwind CSS, and AWS S3."
               demoLink="https://teetag-staging.netlify.app/play-now"
-              styles={{alignSelf: "center",width:'275px',height:'150px'}}
+              styles={{alignSelf: "center",width:'320px',height:'160px'}}
             />
           </Col>
 
@@ -52,7 +52,7 @@ function Projects() {
               description="Senpi is an online learning web and mobile platform that offers a variety of courses to help students learn new skills. This project is developed in Angular and Retool at the frontend and Node.js as the backend."
               description2="I was responsible for the development of the frontend and backend of the project. The admin panel is built in Retool. Techstack used: Angular, Retool, Node.js, Firebase, and AWS."
               demoLink="https://dashboard.senpi.guru/courses/courses-dashboard" 
-              style={{borderRadius: '100px !important'}}             
+              styles={{borderRadius: '100px !important', width:'200px',height:'160px'}}             
             />
           </Col>
 
